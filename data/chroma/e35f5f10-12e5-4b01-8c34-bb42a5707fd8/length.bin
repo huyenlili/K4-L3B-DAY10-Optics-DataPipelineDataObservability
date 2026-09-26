@@ -1,0 +1,4 @@
+Title: Agentic Retrieval-Augmented Generation for Knowledge-Intensive Tasks
+Summary: Retrieval-Augmented Generation (RAG) significantly improves large language model accuracy by grounding responses in retrieved passages. We explore agentic multi-hop reasoning and routing across heterogeneous vector indices.
+Authors: Minh Nguyen, Hoang Le
+Categories: Artificial Intelligence, Information Retrievalÿÿ
