@@ -5,7 +5,7 @@
 | Thông tin | Nội dung |
 | --- | --- |
 | Họ và tên | Đào Thị Huyền |
-| MSSV | Chưa có thông tin trong repository |
+| MSSV | 2A202602670 |
 | Khóa/Lớp | K4 / K4-L3B |
 | Tên nhóm | Optics |
 | Vai trò chính | Data Pipeline Implementation, Data Observability & Pipeline Integration |
