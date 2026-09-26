@@ -129,7 +129,7 @@
         "batch_data": "PandasDataFrame"
       },
       "batch_markers": {
-        "ge_load_time": "20260926T045244.873397Z",
+        "ge_load_time": "20260926T050037.243853Z",
         "pandas_data_fingerprint": "664356b6883aa0c6eb0b8a3b969b8cdb"
       },
       "active_batch_definition": {
